@@ -2,7 +2,7 @@
 
 // In This Program, We Want To Show The DC Motor Speed Control With The POTENTIOMETER OR POT .
 
-// The Main Code OF The Project OF The DC Motor Speed Control With POTENTIOMETER OR POT . .INO .
+// The Main Code OF The Project OF The DC Motor Speed Control With POTENTIOMETER OR POT . . INO . .
 
 
 
